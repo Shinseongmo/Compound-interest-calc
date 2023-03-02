@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://compound-interest-calc.shop/sitemap.xml
